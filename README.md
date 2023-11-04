@@ -5,9 +5,9 @@ SPDX-License-Identifier: Apache-2.0
 
 # go-ykoath
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cunicu/go-ykoath/test.yaml?style=flat-square)](https://github.com/cunicu/go-ykoath/actions)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cunicu/go-ykoath/build.yaml?style=flat-square)](https://github.com/cunicu/go-ykoath/actions)
 [![goreportcard](https://goreportcard.com/badge/github.com/cunicu/go-ykoath?style=flat-square)](https://goreportcard.com/report/github.com/cunicu/go-ykoath)
-[![Codecov branch](https://img.shields.io/codecov/c/github/cunicu/go-ykoath/main?style=flat-square&token=6XoWouQg6K)](https://app.codecov.io/gh/cunicu/go-ykoath/tree/main)
+[![Codecov branch](https://img.shields.io/codecov/c/github/cunicu/go-ykoath/main?style=flat-square&token=li5EHulivj)](https://app.codecov.io/gh/cunicu/go-ykoath/tree/main)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](https://github.com/cunicu/go-ykoath/blob/main/LICENSES/Apache-2.0.txt)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/cunicu/go-ykoath?style=flat-square)
 [![Go Reference](https://pkg.go.dev/badge/github.com/cunicu/go-ykoath.svg)](https://pkg.go.dev/github.com/cunicu/go-ykoath)
