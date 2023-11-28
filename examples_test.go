@@ -24,7 +24,7 @@ func Example() {
 		return
 	}
 
-	sc, err := pcsc.OpenFirstCard(ctx, yk.HasOATH)
+	sc, err := pcsc.OpenFirstCard(ctx, yk.HasOATH, false)
 	if err != nil {
 		log.Printf("Failed to connect to card: %v", err)
 		return
