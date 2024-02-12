@@ -3,7 +3,7 @@
 
 module cunicu.li/go-ykoath/v2
 
-go 1.21.6
+go 1.22.0
 
 require (
 	cunicu.li/go-iso7816 v0.5.2
