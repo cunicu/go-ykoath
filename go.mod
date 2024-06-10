@@ -7,7 +7,7 @@ go 1.22.2
 
 require (
 	cunicu.li/go-iso7816 v0.6.0
-	golang.org/x/crypto v0.23.0
+	golang.org/x/crypto v0.24.0
 )
 
 require (
