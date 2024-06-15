@@ -86,7 +86,7 @@ func TestCalculateRequireTouch(t *testing.T) {
 		require.ErrorIs(err, ykoath.ErrTouchCallbackRequired)
 
 		// Error raised in callback
-		_, err = card.CalculateMatch("touch", func(s string) error {
+		_, err = card.CalculateMatch("touch", func(_ string) error {
 			return errors.New("my error") //nolint:err113
 		})
 		require.ErrorContains(err, "my error")
