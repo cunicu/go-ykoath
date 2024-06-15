@@ -87,7 +87,7 @@ func TestCalculateRequireTouch(t *testing.T) {
 
 		// Error raised in callback
 		_, err = card.CalculateMatch("touch", func(s string) error {
-			return errors.New("my error") //nolint:goerr113
+			return errors.New("my error") //nolint:err113
 		})
 		require.ErrorContains(err, "my error")
 
