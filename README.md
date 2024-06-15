@@ -61,6 +61,10 @@ go-ykoath has been forked from [yawn/ykoath](https://github.com/yawn/ykoath) at 
 * Joern Barthel ([@yawn](https://github.com/yawn))
 * Steffen Vogel ([@stv0g](https://github.com/stv0g))
 
+## Contact
+
+Please have a look at the contact page: [cunicu.li/docs/contact](https://cunicu.li/docs/contact).
+
 ## License
 
 go-ykoath is licensed under the [Apache 2.0](./LICENSE) license.
