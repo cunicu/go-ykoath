@@ -6,7 +6,7 @@ module cunicu.li/go-ykoath/v2
 go 1.22.2
 
 require (
-	cunicu.li/go-iso7816 v0.8.0
+	cunicu.li/go-iso7816 v0.8.1
 	golang.org/x/crypto v0.29.0
 )
 
