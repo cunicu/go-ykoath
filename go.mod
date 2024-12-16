@@ -11,7 +11,7 @@ require (
 )
 
 require (
-	github.com/ebfe/scard v0.0.0-20230420082256-7db3f9b7c8a7 // test-only
+	github.com/ebfe/scard v0.0.0-20241214075232-7af069cabc25 // test-only
 	github.com/stretchr/testify v1.10.0 // test-only
 )
 
