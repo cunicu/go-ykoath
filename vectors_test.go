@@ -8,7 +8,7 @@ import (
 	"encoding/hex"
 	"time"
 
-	"cunicu.li/go-ykoath/v2"
+	ykoath "cunicu.li/go-ykoath/v2"
 )
 
 type vector struct {
