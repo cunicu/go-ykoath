@@ -190,5 +190,5 @@ func (c *Card) calculateAll(challenge []byte, truncate bool) (map[string]Code, e
 
 func (c *Card) totpChallenge() []byte {
 	counter := c.Clock().Unix() / int64(c.Timestep.Seconds())
-	return binary.BigEndian.AppendUint64(nil, uint64(counter))
+	return binary.BigEndian.AppendUint64(nil, uint64(counter)) // nolint:gosec
 }
