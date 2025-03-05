@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"cunicu.li/go-ykoath/v2"
+	ykoath "cunicu.li/go-ykoath/v2"
 )
 
 func TestCalculate(t *testing.T) {
