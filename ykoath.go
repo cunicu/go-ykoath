@@ -101,7 +101,7 @@ func (c *Card) send(ins iso.Instruction, p1, p2 byte, tvsCmd ...tlv.TagValue) (t
 		return nil, fmt.Errorf("failed to encode command: %w", err)
 	}
 
-	res, err := c.Card.Send(&iso.CAPDU{
+	res, err := c.Send(&iso.CAPDU{
 		Ins:  ins,
 		P1:   p1,
 		P2:   p2,
