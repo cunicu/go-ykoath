@@ -9,7 +9,7 @@ toolchain go1.24.3
 
 require (
 	cunicu.li/go-iso7816 v0.8.6
-	golang.org/x/crypto v0.38.0
+	golang.org/x/crypto v0.39.0
 )
 
 require (
