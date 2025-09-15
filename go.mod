@@ -3,13 +3,13 @@
 
 module cunicu.li/go-ykoath/v2
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.24.5
 
 require (
 	cunicu.li/go-iso7816 v0.8.7
-	golang.org/x/crypto v0.41.0
+	golang.org/x/crypto v0.42.0
 )
 
 require (
