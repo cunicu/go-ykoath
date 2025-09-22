@@ -8,7 +8,7 @@ go 1.24.0
 toolchain go1.24.5
 
 require (
-	cunicu.li/go-iso7816 v0.8.7
+	cunicu.li/go-iso7816 v0.8.8
 	golang.org/x/crypto v0.42.0
 )
 
