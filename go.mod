@@ -5,7 +5,7 @@ module cunicu.li/go-ykoath/v2
 
 go 1.24.0
 
-toolchain go1.24.5
+toolchain go1.25.2
 
 require (
 	cunicu.li/go-iso7816 v0.8.8
